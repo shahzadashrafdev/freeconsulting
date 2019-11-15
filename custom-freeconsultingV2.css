@@ -279,18 +279,12 @@
  
     #mainHeading{
         font-size:40px!important;
-        /*text-align: left;*/
-     
     }
     #mainSubHeading{
      
         font-size:20px;       
         padding-bottom:10px;
  
-    }
-    #headerImg{
-        
-        /*margin-top:-80px!important;*/
     }
 }
 
@@ -306,7 +300,6 @@
     #mainHeading
     {
         font-size:35px!important;
-        /*margin-top:10px!important;*/
     }
     #headerImg{
         max-width: 250px!important;
@@ -326,8 +319,6 @@
     #mainHeading{
         font-size:35px!important;
         padding-top:10px!important;
-        /*padding-bottom:10px;*/
-        /*text-align:left;*/
     }
     #mainSubHeading{
         font-size: 20px;
@@ -339,8 +330,6 @@
 
         max-width:250px!important;
         margin-left:215px!important;
-        /*margin: -60px 0px 20px 130px !important;*/
-        /*margin: auto auto 20px 215px!important;*/
 
     }
     
