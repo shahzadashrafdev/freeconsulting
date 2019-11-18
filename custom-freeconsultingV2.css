@@ -283,8 +283,6 @@
     #mainSubHeading{
      
         font-size:20px;       
-        padding-bottom:10px;
- 
     }
 }
 
@@ -303,6 +301,7 @@
     }
     #headerImg{
         max-width: 250px!important;
+        margin-top:-45px!important;
     }
 
     .four-steps-head h3{
@@ -330,7 +329,6 @@
 
         max-width:250px!important;
         margin-left:215px!important;
-
     }
     
 }
